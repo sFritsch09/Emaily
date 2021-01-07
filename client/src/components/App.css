@@ -10,3 +10,10 @@
 		display: flex;
 	}
 }
+
+.test-warning {
+	text-align: center;
+	color: red;
+	margin-top: 40px;
+	font-size: 24px;
+}
